@@ -182,6 +182,4 @@ while(hasLeft(index))
     
 }
 }
-
-
 }
