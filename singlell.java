@@ -8,7 +8,7 @@ public class singlell {
         Node ab=new Node();
         LinkedList obj=new LinkedList();
         do{
-            System.out.println("-----Heap operations-----");
+            System.out.println("-----Single Linked List (basic) operations-----");
             System.out.println("\t1. Append");
             System.out.println("\t2. Prepend");
             System.out.println("\t3. Access first");
