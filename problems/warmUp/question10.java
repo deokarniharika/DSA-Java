@@ -1,5 +1,6 @@
 import java.util.*;
 
+//product of elements except self
 public class question10 {
     public static void main(String[] args)
     {
